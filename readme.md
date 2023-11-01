@@ -29,10 +29,12 @@ Start and end are annotates with `999` and `-1` respectively.
 
 ## Files
 
-| Name | File |
-|------|------|
-|Chords as Note Names | [chords.txt](./data/chords.txt) |
-|Chords as Scale Degrees | [degrees.txt](./data/degrees.txt) |
+Both files come as 
+
+| Name | File | Compressed Size | Uncompressed Size |
+|------|------|-----------------|-------------------|
+|Chords as Note Names | [chords.zip](./data/chords.zip) | 5.7mb | 39.9mb |
+|Chords as Scale Degrees | [degrees.zip](./data/degrees.zip) | 14.1mb | 90.4mb |
 
 ## Data Sample
 
