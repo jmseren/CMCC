@@ -25,7 +25,7 @@ Each note takes the form of:
 
 Where 0 is the tonic and 11 is the subtonic.
 
-Start and end are annotates with `999` and `-1` respectively.
+Start and end are annotated with `999` and `-1` respectively.
 
 ## Files
 
