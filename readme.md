@@ -1,4 +1,4 @@
-# Classical Music Chord Corpus
+# The Classical Music Chord Corpus
 - With annotated start and end tags
 
 ## Datasets
@@ -33,6 +33,21 @@ Start and end are annotates with `999` and `-1` respectively.
 |------|------|
 |Chords as Note Names | [chords.txt](./data/chords.txt) |
 |Chords as Scale Degrees | [degrees.txt](./data/degrees.txt) |
+
+## Data Sample
+
+| Names | Degrees|
+|-------|--------|
+| START | 999 |
+| G5 E-5 G4 C5 C4 | 0 3 7 |
+| G5 G4 C5 E-5 C4 | 0 3 7 |
+| G#5 G4 C5 E-5 C4 | 7 8 0 3 |
+| G5 C5 G4 E-5 C4 | 0 3 7 |
+| G5 E-5 G4 C5 C4 | 0 3 7 |
+| G4 C5 E-5 C4 | 0 3 7 |
+| D5 | 2 |
+| C5 | 0 |
+| G5 D5 D4 G4 B3 | 7 11 2 |
 
 
 ## Source Information
